@@ -3,6 +3,7 @@
 // inspired by code by Joseph Mack, http://www.austintek.com/mvc/
 
 /**
+ * added comments on cubnime branch
  * Two views with integrated controllers.
  */
 
